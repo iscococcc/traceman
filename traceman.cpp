@@ -1,6 +1,6 @@
 // traceman.cpp : Defines the entry point for the console application.
 //
-
+//samples--02041648
 #include "stdafx.h"
 
 #include "debug.h"
